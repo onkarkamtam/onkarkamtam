@@ -69,25 +69,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
 
 </p>
-
----
-
-## 🏆 Achievements
-
-🏆 **1st Place — C Coder Clash, PIONEER 2K25**  
-Won among **175+ teams** at a National Level Programming Event.
-
-🥉 **3rd Rank — National Level Programming Competition**  
-Secured **3rd position** in a National Level Programming Competition.
-
-🏆 **Winner — Tech-Fest 2K23 Bug Tracking**  
-Won the Bug Tracking competition at a National Level Technical Event.
-
-🥈 **Runner-up — Tech-Masters 2K22**  
-Secured **2nd place among 130+ teams** in a district-level C programming competition.
-
----
-
 <p align="center">
   <i>⚡ Code • Compete • Build • Learn</i>
 </p>
