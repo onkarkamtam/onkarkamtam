@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onkar Kamtam</h1>
 
-<h3 align="center">💻 Competitive Programmer | 🤖 AIML </h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🧮 Interested in **Mathematics, Logical Problem Solving & Algorithms**
-- 💻 Focused on **Data Structures, Algorithms & Competitive Programming**
-- 🤖 Exploring **Machine Learning & AI Algorithms**
----
+<h3 align="center">🧠 MATHS | 💻 CP | 🤖 AIML </h3>
 
 ## 💻 Coding Profiles
 
